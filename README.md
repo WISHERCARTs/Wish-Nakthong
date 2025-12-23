@@ -59,9 +59,3 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 
 ## 🔥 Streak Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WISHERCARTs&theme=dark)
-
-## 📊 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WISHERCARTs&layout=compact&theme=dark)
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WISHERCARTs&theme=darkhub&no-frame=true&row=1)
