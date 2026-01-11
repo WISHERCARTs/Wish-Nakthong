@@ -32,8 +32,6 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 - 📚 **Currently learning:** Machine Learning & Flutter
 - 🌐 Portfolio: **[my-portfolio-wish.vercel.app](https://my-portfolio-wish.vercel.app/)**
 - 📫 Contact: **wishercarts@gmail.com**
-  
-![Profile Views](https://komarev.com/ghpvc/?username=WISHERCARTs&color=blue)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@wishercarts)
