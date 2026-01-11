@@ -1,3 +1,30 @@
+<div align="center">
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20Automation&descAlignY=55&descAlign=50)
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Mahidol+University+Student+(DST);Seeking+Internship:+Data+%26+AI;Fan+of+n8n+%26+Machine+Learning" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://youtube.com/@wishercarts" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://linkedin.com/in/wish-nakthong" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:wishercarts@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://my-portfolio-wish.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=WISHERCARTs&color=blue&style=flat-square)
+
+</div>
+
 ## 👋 About Me:
 Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 - 💼 **Currently seeking internship opportunities in Data Engineer & AI Automation!**
