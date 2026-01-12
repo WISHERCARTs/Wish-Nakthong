@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wish%20Nakthong&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%20Automation&descAlignY=55&descAlign=50)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=500&lines=Mahidol+University+Student+(DST);Seeking+Internship:+Data+%26+AI;Interested+in+n8n+%26+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Mahidol+University+Student+(DST);Seeking+Internship:+Data+%26+AI;Interested+in+Automation+%26+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <p align="center">
