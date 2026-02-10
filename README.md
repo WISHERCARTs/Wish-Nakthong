@@ -34,7 +34,7 @@ Hi! I'm **Wish Nakthong**, a 2nd year DST student at Mahidol University.
 | Project | Description | Demo |
 | :--- | :--- | :--- |
 | **🧠 Face Recognition System** | **AI Web Application:** An end-to-end face identification system using **PCA** for dimensionality reduction and **SVM** for classification. Features a user-friendly web interface. | <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wishercarts-face-recognition-system-app-vti7zr.streamlit.app/) |
-| **🔢 MLP Digit Recognition** | **Neural Network:** Handwritten digit recognition using **MLP** with interactive drawing canvas and real-time predictions. | <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://wishercarts-mlp-digit-recognition-app-at0kj5.streamlit.app/) |
+| **🔢 MLP Digit Recognition** | **Neural Network:** Handwritten digit recognition using **MLP** with interactive drawing canvas and real-time predictions. | <br> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mlp-wishercarts.streamlit.app/) |
 | **🌐 Personal Portfolio** | **Modern Frontend:** A high-performance personal portfolio website designed with a focus on responsiveness and modern UI/UX. | <br> [👉 Visit Site](https://my-portfolio-wish.vercel.app/) |
 
 
